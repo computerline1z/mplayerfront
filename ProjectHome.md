@@ -1,0 +1,1 @@
+a remote mplayer frontend UI created by C#, it can control mplayer on a remote machine.
